@@ -1,1 +1,1 @@
-The file shows a localhost chatabot in collaboration with virtual machine Ollama in version 3.
+The file shows a localhost chatbot in collaboration with virtual machine Ollama in version 3.
